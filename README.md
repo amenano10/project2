@@ -15,12 +15,10 @@ I couldn't figure out the path for my computer, but when I execute the script it
 seems to display what it should.
 After each new script we used, it added onto the Backup.sh and starting off wrong
 was tough.
-Adding total_files and total_directories to backup.sh doesn't quite work.
-wc -1 is not a command for Git Bash. 
-I used the windows equivalent "find /c /v", at least I think it is.
-When executing after that change it started displaying what seemed like every file on my computer.
-So I went back and changed it to wc -1 even though that doesn't work.
-Since this project had us continually updating the Backup.sh, mine never functioned like it should.
+Daniel pointed out that the command is wc -l and not wc -1 as I had.
+I went back and changed out my backup.sh to match the final example they had in the 
+guide and made sure to have it as wc -l. 
+Script wouldn't execute, not sure what the new problem is, no errors were displayed.
 
 Variables(Welcome)
 This script set three variables: greeting, user, and day.
