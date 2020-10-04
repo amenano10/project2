@@ -18,7 +18,9 @@ was tough.
 Daniel pointed out that the command is wc -l and not wc -1 as I had.
 I went back and changed out my backup.sh to match the final example they had in the 
 guide and made sure to have it as wc -l. 
-Script wouldn't execute, not sure what the new problem is, no errors were displayed.
+Backup.sh will execute and echo the "else" statement of 
+"Requested $1 user home directory doesn't exist." 
+Will continue working on figuring out what directory I'm supposed to be inputting.
 
 Variables(Welcome)
 This script set three variables: greeting, user, and day.
