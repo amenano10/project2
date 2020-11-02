@@ -53,3 +53,5 @@ weren't able to be fully realized via the backup script.
 I'm hoping that after this project I will be able to figure it out because it is 
 simply not happening right now. 
 I believe the biggest issues is trying to figure out how to work Git Bash via a Linux guide.
+
+Code Review (Daniel Thoreson) After viewing your submission for project 2, it was easy to tell that you had a great understanding of the subject matter. Your code was similar to the code that was demonstrated to us. Great following along!!! Im certain many people had directory issues as I did for sure. I don't have any changes or improvements to suggest.
