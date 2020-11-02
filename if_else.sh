@@ -1,6 +1,7 @@
 #!/usr/bin/bash
 
-#Simple conditional statements
+#This code block is for testing conditional statements
+#This simply tests to see if number a is less than number b
 
 num_a=800
 num_b=200
